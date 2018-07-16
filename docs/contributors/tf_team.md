@@ -62,3 +62,12 @@ Hosted inside [BetterToken]((tftech/tftech.md) (Belgium)
 - token promotion
 - community building
 - event organizer
+
+
+### [Sabrina](https://github.com/threefoldfoundation/info_foundation/edit/development/docs/contributors/tftech/sabrina_sadik.md)
+- Marketing BetterToken
+- Marketing ThreeFold Foundation
+- Owner ThreeFold App
+- Organiser events
+- Customer Service
+- Tokenfairy
