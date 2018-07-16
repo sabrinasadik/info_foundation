@@ -6,35 +6,31 @@
 
 ## why do I exist in TF (-: = at your service
 
-- Contact and help token holders and interested people
-- Owner of the app, make sure issues are resolved and app is user friendly 
-- KYC officer: verify KYC of members
-- Follow up logistics of nodes
-- First assistant finance
-- Answer questions on Intercom
+- Marketing ThreeFold 
+- Marketing BetterToken
+- KYC officer: verify KYC if needed
+- Follow up logistics of nodes/servers
+- Customer Service Intercom
 - Follow up on payments and contracts
-- Input data in CRM
+- Owner of the ThreeFold App
 
 
 
-## My Priorities (jan 16)
+## My Priorities (July 16th)
 
 
 
 ### ASAP
 
-- Make sure people who paid for their tokens, receive them in their wallet
-- Make sure people who paid, receive their nodes
-- Make sure blocking issues on app are resolved and people can register / buy tokens
-- Follow up on contracts that aren't paid yet
-- Work on new UI of the app
+- Update ThreeFold App
+- Hand out Ambassador tokens
+- Finalise process for referral tokens and farming tokens
+
 
 
 ### Next Weeks
 
-- Make sure there is an automated link between app & CRM 
-- Think of a way to automize connection between payment in bank account and tokens in wallet
-- ...
+- Marketing expanding of the Grid (BetterToken)
 
 
 ### Next Months
